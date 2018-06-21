@@ -16,7 +16,8 @@
       padding-top: 12px;
       border-radius: 20px;
       margin-bottom: 30px;
-      font-family: BRLNSDB;
+/*       font-family: BRLNSDB; */
+      font-family: 'Krona One', sans-serif;
     }
     @media(max-width:500px)
     {
