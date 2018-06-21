@@ -33,6 +33,18 @@
              font-family: 'Krona One', sans-serif;
       }
 
+
+@media  (max-width:600px){
+    
+    .head{
+        font-size: 10px;
+    }
+}
+
+
+
+
+
 #map
       {
             height:500px;
