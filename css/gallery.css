@@ -22,6 +22,18 @@
     }
     
 
+@media (max-width:600px)
+{
+    .heading{
+        font-size: 60px;
+    }
+    
+}
+
+
+
+
+
 .col-lg-12{
 /*    margin-right: -20px;*/
 }
