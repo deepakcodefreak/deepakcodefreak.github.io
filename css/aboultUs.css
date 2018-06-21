@@ -27,10 +27,11 @@ margin-top: 5%;
       border: 2px solid #a0ada7;
       color: #f4f1f1;
       background-color: #8e173d;
-      font-size: 30pt;
+      font-size: 25pt;
         padding-left: 20px;
       padding-top: 12px;
-        font-family: BRLNSDB;
+/*         font-family: BRLNSDB; */
+            font-family: 'Krona One', sans-serif;
     }
     .btninfo
     {
@@ -40,9 +41,9 @@ margin-top: 5%;
       color:#8e173d;
       text-align:left;
       list-style: none;
-  padding-left: 20px;
-  padding-top:12px;
-  padding-bottom: 12px;
+        padding-left: 20px;
+        padding-top:12px;
+        padding-bottom: 12px;
         font-family: 'Quicksand', sans-serif;
 
 
