@@ -116,6 +116,17 @@ margin-top: 8px;
   margin-bottom: 40px;
 }
 
+
+
+@media (max-width:600px){
+    .headingh{
+        font-size: 30px;
+    }
+}
+
+
+
+
 .text{
   font-size: 18px;
   font-family: 'EB Garamond', serif;
