@@ -58,8 +58,8 @@
       color:#8e173d;
       background-color: #f4f1f1;
       margin-top: 20px;
-border: 2px solid grey;
-margin-bottom: 20px;
+      border: 2px solid grey;
+      margin-bottom: 20px;
     }
     .head{
       margin-top: 20px;
@@ -78,7 +78,7 @@ margin-bottom: 20px;
 @media(max-width:500px){
 
     .get {
-      font-size: 30px;
+      font-size: 25px;
       padding-top: 16px;
     }
 
